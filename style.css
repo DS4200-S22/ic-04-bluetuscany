@@ -1,0 +1,24 @@
+
+svg {
+    fill: darkseagreen;
+    /*margin-top: 50px;*/
+    /*margin-left: 50px;*/
+    margin: 20px 0 0 10px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.container {
+    border-color: black;
+    border-style: solid;
+}
+
+#title {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, serif;
+}
